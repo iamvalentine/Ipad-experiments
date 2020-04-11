@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 16px 24px 16px 24px;
+  background-color: #9249f2;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #722ecc;
+}
